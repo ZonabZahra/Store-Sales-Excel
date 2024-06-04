@@ -1,0 +1,9 @@
+Questions:
+1.Create a chart to analyze sales and order volume concurrently.
+2.In which month did sales and orders peak? 
+3.In 2022, which gender made more purchases, men or women?
+4.What were the various order statuses observed in 2022?
+5.Identify the top 10 states that drove sales.
+6.Explore the correlation between age, gender, and order frequency.
+7.Which sales channel is generating the highest revenue?
+8.Identify the category with the highest sales volume.
