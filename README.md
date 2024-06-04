@@ -14,6 +14,9 @@ In this Project Excel functions, pivot tables, and charts were used to visualize
 Key Findings:
 
 Women's Purchasing Behavior
+
 Contribution of Adult Age Group
+
 Primary Sales Channels
+
 Top States for Sales
